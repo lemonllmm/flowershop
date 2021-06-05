@@ -1,0 +1,19 @@
+@charset "UTF-8";
+.mail{
+	
+	position:relative;
+	line-height:160%;
+	margin:6px;
+}
+.i-label{
+	position:absolute;
+	left:0px;
+	width:90px;
+	line-height:160%;
+	text-align:right;
+}
+.i-text{
+	position:relative;
+	left:95px;
+	width:200px;
+	
